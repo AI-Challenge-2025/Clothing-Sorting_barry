@@ -53,6 +53,7 @@
 3. จากนั้นเปิดหน้า Web แล้วเปิดด้วย ip เครื่องของตัวเอง หรือจะเป็น Localhost ก็ได้
    ```bash
    http://127.0.0.1:8004/static/index.html
+- ![ตัวอย่างภาพ](https://raw.githubusercontent.com/AI-Challenge-2025/Clothing-Sorting_barry/main/Image/messageImage_1748454240222.jpg)
 - จากนั้นบนหน้าเว็ปจะ Detect เสื้อผ่านวิดิโอที่เราเปิดอยู่พร้อมมีกรอบวัดความแม่นยำ
 - แสดงค่าความแม่นยำจาก วิดิโอจากใต้ภาพ
 - ปุ่ม Capture ในการถ่ายภาพขณะที่ Detect อยู่
