@@ -77,6 +77,22 @@
    - แสดงค่าความแม่นยำจาก รูปจากใต้ภาพ
    - option เสริม สามารถเปิดปิด Dark/Light Mode
 
+## 📚 อ้างอิง
+
+1. **Dataset สำหรับใช้ในการฝึกโมเดล (Training Dataset)**  
+   - [Main-Fashion Dataset จาก Roboflow](https://app.roboflow.com/yhjyhjkukul/main-fashion-vysqe/overview)
+
+2. **วิดีโอแนะนำการใช้งาน Roboflow และการฝึกโมเดล (Training Tutorials)**
+   - [📺 สอนใช้งาน Roboflow เบื้องต้น](https://youtu.be/IRTeBtDexJI?si=rAYbwU4RVKo--KT2)  
+   - [📺 การ Train โมเดลและการ Export](https://youtu.be/K155sSZa1fM?si=MXHVZyagunsTHYPJ)  
+   - [📺 การนำโมเดลที่ Train แล้วมาใช้งาน](https://youtu.be/klNA6j4RRfY?si=jJfvlyiNti6gm3c3)
+
+3. **YOLOv8 Notebook สำหรับการนำโมเดลไปใช้งาน (Model Deployment)**  
+   - [🚀 YOLOv8 on Google Colab](https://colab.research.google.com/drive/1LG9x9IgyLLMYF-9X-AVJ-0jPXJ4y0iKE?usp=sharing)
+
+4. **เทคโนโลยีที่ใช้ในระบบ (Tech Stack)**
+   - **Frontend:** HTML, CSS, JavaScript  
+   - **Backend:** Python, Node.js (สำหรับสร้าง Server และเชื่อมต่อกับโมเดล)
 
 
 
