@@ -56,7 +56,7 @@
 <h2 align="center">🎯 ตัวอย่างการทำงานของระบบจำแนกเสื้อผ้าอัตโนมัติด้วย AI</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AI-Challenge-2025/Clothing-Sorting_barry/main/Image/messageImage_1748454386903.jpg" width="45%" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/AI-Challenge-2025/Clothing-Sorting_barry/main/Image/messageImage_1748513850233.jpg" width="45%" style="margin: 5px;" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AI-Challenge-2025/Clothing-Sorting_barry/main/Image/messageImage_1748454584649.jpg" width="45%" style="margin: 5px;" />
